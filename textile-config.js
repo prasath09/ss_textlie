@@ -5,4 +5,4 @@
      https://xxxxx.trycloudflare.com
 */
 window.TEXTILE_API_BASE =
- "https://wifi-locally-imposed-col.trycloudflare.com";
+ "https://api.sstextiles.com/api/health";
