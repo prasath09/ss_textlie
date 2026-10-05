@@ -5,4 +5,4 @@
      https://xxxxx.trycloudflare.com
 */
 window.TEXTILE_API_BASE =
-  "https://experiences-fares-healthy-ceiling.trycloudflare.com";
+ "https://ambient-scanners-previously-appropriate.trycloudflare.com";
