@@ -5,4 +5,4 @@
      https://xxxxx.trycloudflare.com
 */
 window.TEXTILE_API_BASE =
- "https://ambient-scanners-previously-appropriate.trycloudflare.com";
+ "https://wifi-locally-imposed-col.trycloudflare.com";
