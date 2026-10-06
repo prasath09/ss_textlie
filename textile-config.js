@@ -5,4 +5,4 @@
      https://xxxxx.trycloudflare.com
 */
 window.TEXTILE_API_BASE =
-  "https://zcypn1azem.preview.c39.airoapp.ai";
+  "https://zcypn1azem.c39.airoapp.ai"
